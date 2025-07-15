@@ -1,2 +1,4 @@
 init edildi
 serial init yapildi
+ethernet init yapıldı
+
