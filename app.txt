@@ -1,1 +1,2 @@
 ethernet_app()
+serial_init()
