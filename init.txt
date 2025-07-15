@@ -1,1 +1,2 @@
 init edildi
+ethernet init yapıldı
